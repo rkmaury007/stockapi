@@ -1,0 +1,6 @@
+com\globant\stock\service\StockService.class
+com\globant\stock\StockapiServerApplication.class
+com\mysql\jdbc\Driver.class
+com\globant\stock\entity\Stock.class
+com\globant\stock\controller\StockController.class
+com\globant\stock\dao\StockRepository.class
